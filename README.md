@@ -1,0 +1,2 @@
+# premium-platinum-print-001-platinum-palladium-print-track
+Stop losing track of your platinum and palladium print variables—every sheet of paper is an investment, and one forgotten detail can ruin a print.  This Notion template centralizes all your platinum and palladium print data, from UV exposure units and developer dilutions to paper batches and cost per sheet. You'll replicate successes, troubleshoot
